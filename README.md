@@ -17,7 +17,7 @@ I tested the system using 8,192 elements initialized in **Descending Order** (th
 ## Verification Screenshot
 Below is the output from the Vitis Serial Terminal confirming the cycle counts and data accuracy:
 
-![Benchmark Results](./Documentation/Verification_report_Vitis)
+![Benchmark Results](./Documentation/Verification_report_Vitis.jpg)
 
 ## How It Works
 * **Hardware:** Basys 3 FPGA (Artix-7).
